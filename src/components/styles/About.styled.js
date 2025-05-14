@@ -19,15 +19,15 @@ export const AboutContent = styled.div`
 export const AboutImageContainer = styled.div`
   position: relative;
   width: 45%;
-  height: 28rem;
+  height: 26rem;
   z-index: 3;
-
+  overflow: hidden; // add this
   &::after {
     content: "";
     position: absolute;
     top: -1rem;
     left: -1rem;
-    background: #fcdf3e;
+    background: #0d0e0e;
     width: 100%;
     height: 100%;
     border-radius: 1px;
@@ -59,9 +59,13 @@ export const AboutImage = styled.img`
   width: 100%;
   height: 100%;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 0;
+  left: 0;
   border-radius: 1px;
 `;
+
+
 
 export const AboutDetailsContainer = styled.div`
   position: relative;

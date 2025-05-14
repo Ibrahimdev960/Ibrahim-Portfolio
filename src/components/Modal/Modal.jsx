@@ -7,7 +7,7 @@ const Modal = ({ toggleHandler }) => {
       <ModalCard>
       Contact Us . Go to {' '}
         <ModalLink>
-        wardasohail146@gmail.com
+        ik2258376@gmail.com
         </ModalLink>
       </ModalCard>
     </>

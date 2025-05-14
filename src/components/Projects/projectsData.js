@@ -29,9 +29,9 @@ export const projectData = [
     id: 3,
     image: project3Laptop,
     transitionImage: project3Laptop,
-    title: "Elegance",
-    codeLink: "https://github.com/",
-    liveLink: "",
+    title: "GenCMS",
+    codeLink: "https://github.com/Ibrahimk2258365/GenesisMegatech",
+    liveLink: "https://genesis-mega-tech.vercel.app/",
   },
   {
     id: 4,

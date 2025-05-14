@@ -7,7 +7,7 @@ export const Header = () => {
     <StyledHeader>
       Contact Us . Go to &nbsp;
       <ModalLink >
-      wardasohail146@gmail.com
+      ik2258365@gmail.com
       </ModalLink>
     </StyledHeader>
   );
