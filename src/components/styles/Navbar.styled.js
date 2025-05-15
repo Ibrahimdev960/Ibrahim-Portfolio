@@ -32,7 +32,12 @@ export const StyledNavbar = styled.nav`
 
 export const NavLogo = styled.img`
   cursor: pointer;
-  color: red;
+  width: 89px;   /* Or any appropriate size */
+  height: auto;   /* Keeps aspect ratio */
+  
+  @media all and (max-width: ${({ theme }) => theme.breakpoints.md}) {
+    width: 89px;
+  }
 `;
 
 export const NavMenuList = styled.ul`

@@ -54,14 +54,14 @@ const MobileMenu = ({ isOpen, toggle }) => {
       </MobileMenuList>
       <MobileSocials>
         <MobileSocial
-          href="wardasohail146@gmail.com"
+          href="ik2258365@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FaEnvelope />
         </MobileSocial>
         <MobileSocial
-          href="https://github.com/WardahSohail"
+          href="https://github.com/Ibrahimk2258365"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -69,7 +69,7 @@ const MobileMenu = ({ isOpen, toggle }) => {
         </MobileSocial>
 
         <MobileSocial
-          href="https://www.linkedin.com/in/jericho-bantiquete-450541179/"
+          href="https://www.linkedin.com/in/ibrahim-khan097277276"
           target="_blank"
           rel="noopener noreferrer"
         ></MobileSocial>

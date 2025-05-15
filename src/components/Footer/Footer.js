@@ -65,7 +65,7 @@ const Footer = () => {
         <FooterContact>
           <ContactHeader>Let's grab a coffee.</ContactHeader>
           <ContactLink >
-          ibrahimdev960@gmail.com
+          ik2258365@gmail.com
           </ContactLink>
         </FooterContact>
       </FooterContacts>
